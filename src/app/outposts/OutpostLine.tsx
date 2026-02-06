@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 
 import Image from 'next/image'
 import rightArrow from '@images/icons/right_arrow_white.svg';
-import outpost_img from '@images/outposts/Outposticon1.png'
+import outpost_img from '@images/outposts/OutpostIcon1.png'
 
 import dense1_img from '@images/outposts/Outpostdensity1.png'
 import dense2_img from '@images/outposts/Outpostdensity2.png';
