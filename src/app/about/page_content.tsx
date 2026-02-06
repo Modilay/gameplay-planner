@@ -12,7 +12,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 import discord_image from '@images/icons/discord_gray.svg';
-import paypal_image from "@images/icons/paypal.svg";
+import paypal_image from "@images/icons/PayPal.svg";
 import scroll_image from '@images/icons/paper_scroll.svg';
 
 /**

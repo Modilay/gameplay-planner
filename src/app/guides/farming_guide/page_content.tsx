@@ -11,7 +11,7 @@ import ScrollComponent from '../../util/ScrollComponent';
 
 import PIC_ExplanationImage from '@images/guides/farm/pic_explanation.png';
 import ProductionTabLetteredImage from '@images/guides/farm/production_tab_lettered.png';
-import FrenchFryCornerImage from '@images/guides/farm/french_Fry_corner.png';
+import FrenchFryCornerImage from '@images/guides/farm/french_fry_corner.png';
 import UniqueFrenchFryCornerImage from '@images/guides/farm/unique_french_fries_corner.png';
 import contagionImage from '@images/guides/farm/contagion.png';
 import farm_landingImage from '@images/guides/farm/farm_landing.png';

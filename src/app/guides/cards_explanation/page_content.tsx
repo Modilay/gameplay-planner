@@ -16,7 +16,7 @@ import current_future_charges_image from '@images/guides/cards/current_future_ch
 import card_suggestions_image from '@images/guides/cards/card_suggestions.png';
 import future_reinc_image from '@images/guides/cards/future_reinc.png';
 import pets_selection_image from '@images/guides/pets/pets_selection.png';
-import miscellaneous_settings_image from '@images/guides/pets/miscellaneous_settings.png';
+import miscellaneous_settings_image from '@images/guides/pets/miscellaneous_settings2.png';
 import missing_expedition_pet_image from '@images/guides/pets/missing_expedition_pet.png';
 import copyLinkSvg from '@images/icons/copy_link.svg';
 

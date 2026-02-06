@@ -16,7 +16,7 @@ import top_configuration_image from '@images/guides/pets/top_configuration.png';
 import pet_whitelist_image from '@images/guides/pets/pet_whitelist.png';
 import pet_bonus_finder_image from '@images/guides/pets/pet_bonus_finder.png';
 import pets_selection_image from '@images/guides/pets/pets_selection.png';
-import miscellaneous_settings_image from '@images/guides/pets/miscellaneous_settings.png';
+import miscellaneous_settings_image from '@images/guides/pets/miscellaneous_settings2.png';
 import missing_expedition_pet_image from '@images/guides/pets/missing_expedition_pet.png';
 import copyLinkSvg from '@images/icons/copy_link.svg';
 
